@@ -1,0 +1,31 @@
+Bienvenue dans Le Jeu De La Bagarre!
+
+À propos de ce jeu:
+-------------------------
+Le Jeu De La Bagarre est un jeu de combat avec quatre personnages :
+
+Personnage :	Vie:		Attack: 		Ulti:
+
+Damager		  3		      2		   	Inflige les dégâts que lui sont infligés
+								durant ce tour. Il subit quand même 
+								les dégâts.	
+
+Tank			  5		      1			Attaque l’ennemi avec un point d’attaque 
+								en plus mais perd un point de vie.
+
+Healer		  4		      1			Récupère deux points de vie.
+
+Mage		  3		      2			Gagne un point de vie, mais attaque
+								temporairement avec un point 
+								d’attaque en moins.
+
+Le but de ce jeu est de battre son adversaire joué par une IA.
+Vous avez le choix de la difficulté de l'IA entre facile, normal et difficile.
+A chaque manche, vous avez le choix entre attaquer, défendre ou utiliser sont Ulti (attaque spéciale).
+
+
+La programmation du gameplay a été réalisé par Nathan Girod, Lisa Hersant et Joseph Bot.
+Le graphisme a été réalisé par Lisa Hersant.
+La partie utilisant MonoGame a été réalisé par Nathan Girod.
+La difficulté de l'IA a été réalisé par Joseph Bot.
+
